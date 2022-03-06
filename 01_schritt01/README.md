@@ -11,8 +11,9 @@
 ## `02` Arbeitsauftrag 🧑‍💻
 ### `a` Erstellen der Grunddateien 📃
 1. Erstelle eine Datei `index.php` und fülle diese mit dem nachfolgenden HTML-Grundaufbau.
+
 <details>
-<summary><strong>HTML Grundstruktur</strong></summary>
+<summary><strong>👉 HTML Grundstruktur 👈</strong></summary>
 
 ```html
 <html></html>
