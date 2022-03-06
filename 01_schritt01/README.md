@@ -4,10 +4,11 @@
 > Es werden die Grundlegenden Dateien erstellt, wichtige Angaben gemacht und alles so verknüpft, dass wir gut weiterarbeiten können. 
 > Es handelt sich hierbei vor allem um eine Repetition aus der Unterrichtsvorbereitung.
 
-## `1` Theorieinput 🧠
+## `01` Theorieinput 🧠
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://www.emojicopy.com/)
-## `2` Arbeitsauftrag 🧑‍💻
+
+## `02` Arbeitsauftrag 🧑‍💻
 ### `a` Erstellen der Grunddateien 📃
 1. Erstelle eine Datei `index.php` und fülle diese mit dem nachfolgenden HTML-Grundaufbau.
 <details>
@@ -18,7 +19,7 @@
 ```
 </details>
 
-2. Erstelle die Datei `style.css` und  nimm die wichtigsten Beschreibungen des Themes vor.
+2. Erstelle die Datei `style.css` und  nimm die wichtigsten Beschreibungen des Themes vor [^1].
 - Name des Themes
 - Autor:in des Themes
 - Beschreibung
@@ -30,20 +31,13 @@
 4. Lade die Datei `screenshot.png` auf den Server (Rechtklick auf `screenshot.png` und dann `sync local -> remote`). Schau auch, dass die anderen Dateien hochgeladen wurden.
 
 ### `b` Dynamik 👯
-5. Füge folgende Metatags dynamisch mit `bloginfo` in `index.php` ein:
-- Die Definition des Zeichensatzes im `head` bei `meta` `charset` «UFT-8» durch einen `bloginfo`-Tag ersetzen.
-```php
-<?php bloginfo('charset') ?>
-```
-- Bei der Definition der Sprache im `html`-Tag auf Zeile 2 «de-CH» durch einen `bloginfo`-Tag ersetzen.
-```php
-<?php bloginfo('language') ?>
-```
-6. Gebe den Titel deines Portfolios dynamisch mit `bloginfo` aus (bei `<title></title>` und `<h1></h1>`)
-7. Verknüpfe die Datei `style.css` im `head` von `index.php` richtig. Nutze dafür einen `bloginfo`-Tag. Teste mit einem Befehl in `style.css` ob das Verknüpfen geklappt hat.
-8. Füge die `body`-Class am richgtigen Ort ein.
-9. Füge den WP Footer Tag [^1] am richtigen Ort ein.
-10. Füge den WP Header Tag am richtigen Ort ein.
+5. Gib in `index.php` den `charset` im `head` dynamisch mit einem `bloginfo`-Tag aus [^2]. 
+6. Gib in `index.php` die `language` im `head` dynamisch mit einem `bloginfo`-Tag aus. 
+7. Gib in `index.php` den Titel deines Portfolios dynamisch mit `bloginfo` aus (bei `<title></title>` und `<h1></h1>`)
+8. Verknüpfe die Datei `style.css` im `head` von `index.php` richtig. Nutze dafür einen `bloginfo`-Tag. Teste mit einem Befehl in `style.css` ob das Verknüpfen geklappt hat.
+9. Füge die `body`-Class am richgtigen Ort ein [^3].
+10. Füge den WP Footer Tag  am richtigen Ort ein [^4].
+11. Füge den WP Head Tag am richtigen Ort ein [^5].
 
 ### `c` Testing 🚦
 11. Wenn du folgende Tests mit **JA** beantworten kannst, hat alles geklappt:
@@ -52,14 +46,19 @@
 - [ ] Du siehst, wenn du die Webseite offen hast, oben die Wordpress- Bearbeitungsleiste
 - [ ] Wenn du dir den Quellcode der Seite ansiehst (Rechtsklick im Browser/Seitenquelltext anschauen), hat hat der `body`-tag u.a. folgende Klassen (`home`, `blog`, `logged-in`, `admin-bar`)
 
-[^1]: [Mehr zur Body-Class](https://developer.wordpress.org/reference/functions/body_class/)
+[^1]: [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
+[^2]: [Liste mit Werten die mit dem bloginfo-Tag ausgegeben werden können](https://developer.wordpress.org/reference/functions/bloginfo/#possible-values-for-show)
+[^3]: [Mehr zur Body-Class](https://developer.wordpress.org/reference/functions/body_class/)
+[4^]: [Mehr zum wp-footer](https://developer.wordpress.org/reference/functions/wp_footer/#user-%20contributed-notes)
+[^5]: [Mehr zum wp-head](https://developer.wordpress.org/reference/functions/wp_head/#user-%20contributed-notes)
 
-> ### 🔗 Verwendete Links
-> - [Link 1]()
-> - [Link 2]()
-
-## `3` Auflösung 💡
+## `03` Auflösung 💡
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's zu Schritt 2](/02_schritt02)
+
+## `4` Links 🔗
+- [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
+- [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
+
