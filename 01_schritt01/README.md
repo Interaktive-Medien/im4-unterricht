@@ -49,7 +49,7 @@
 [^1]: [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
 [^2]: [Liste mit Werten die mit dem bloginfo-Tag ausgegeben werden können](https://developer.wordpress.org/reference/functions/bloginfo/#possible-values-for-show)
 [^3]: [Mehr zur Body-Class](https://developer.wordpress.org/reference/functions/body_class/)
-[4^]: [Mehr zum wp-footer](https://developer.wordpress.org/reference/functions/wp_footer/#user-%20contributed-notes)
+[^4]: [Mehr zum wp-footer](https://developer.wordpress.org/reference/functions/wp_footer/#user-%20contributed-notes)
 [^5]: [Mehr zum wp-head](https://developer.wordpress.org/reference/functions/wp_head/#user-%20contributed-notes)
 
 ## `03` Auflösung 💡
@@ -58,7 +58,7 @@
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's zu Schritt 2](/02_schritt02)
 
-## `4` Links 🔗
+## `4` Zusätzliche Links 🔗
 - [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
 - [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
 
