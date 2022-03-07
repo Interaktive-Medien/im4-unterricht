@@ -1,15 +1,15 @@
-# `01` Setup
+# Setup `Schritt 01`
 > **Um was es geht**: 
 > Wir bauen das eigene Wordpress-Theme auf. 
 > Es werden die Grundlegenden Dateien erstellt, wichtige Angaben gemacht und alles so verknüpft, dass wir gut weiterarbeiten können. 
 > Es handelt sich hierbei vor allem um eine Repetition aus der Unterrichtsvorbereitung.
 
-## `01` Theorieinput 🧠
+## 🧠 Theorieinput
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://www.emojicopy.com/)
 
-## `02` Arbeitsauftrag 🧑‍💻
-### `a` Erstellen der Grunddateien 📃
+## 🧑‍💻 Arbeitsauftrag 
+### I. 📃 Erstellen der Grunddateien 
 1. Erstelle eine Datei `index.php` und fülle diese mit dem nachfolgenden HTML-Grundaufbau.
 
 <details>
@@ -31,7 +31,7 @@
 - Dateiformat: PNG
 4. Lade die Datei `screenshot.png` auf den Server (Rechtklick auf `screenshot.png` und dann `sync local -> remote`). Schau auch, dass die anderen Dateien hochgeladen wurden.
 
-### `b` Dynamik 👯
+### II. 👯 Dynamik 
 5. Gib in `index.php` den `charset` im `head` dynamisch mit einem `bloginfo`-Tag aus [^2]. 
 6. Gib in `index.php` die `language` im `head` dynamisch mit einem `bloginfo`-Tag aus. 
 7. Gib in `index.php` den Titel deines Portfolios dynamisch mit `bloginfo` aus (bei `<title></title>` und `<h1></h1>`)
@@ -40,7 +40,7 @@
 10. Füge den WP Footer Tag  am richtigen Ort ein [^4].
 11. Füge den WP Head Tag am richtigen Ort ein [^5].
 
-### `c` Testing 🚦
+### III. 🚦 Testing 
 11. Wenn du folgende Tests mit **JA** beantworten kannst, hat alles geklappt:
 - [ ] Du konntest das Theme im Backend aktivieren
 - [ ] Das Bild, welches du als screenshot.png hochgeladen hast wird angezeigt
@@ -53,7 +53,7 @@
 [^4]: [Mehr zum wp-footer](https://developer.wordpress.org/reference/functions/wp_footer/#user-%20contributed-notes)
 [^5]: [Mehr zum wp-head](https://developer.wordpress.org/reference/functions/wp_head/#user-%20contributed-notes)
 
-## `03` Auflösung 💡
+## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
 >  🔗 Wenn du fertig bist:

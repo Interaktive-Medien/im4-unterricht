@@ -1,4 +1,4 @@
-# Thema `Schritt XX`
+# Plugins `Schritt 12`
 > **Um was es geht**: 
 > Text hier.
 
@@ -25,7 +25,7 @@
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt xx, Thema](/00_einstieg)
+>  Dann bist du ganz fertig 🥳 Congrats!
 
 ## 🔗 Zusätzliche Links 
 - [link]()

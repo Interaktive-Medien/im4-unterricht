@@ -13,7 +13,7 @@ wie du am besten mit diesen README.md-Files arbeitest.
 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
-## Quicklinks
+## 🔗 Quicklinks
 > Ein Überblick über die Inhalte der Unterrichtswoche. 
 > Navigiere dich hier schnell zum Ort deiner Wahl.
 
