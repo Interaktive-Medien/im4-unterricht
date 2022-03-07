@@ -8,21 +8,27 @@ Bei Fragen: [lea.moser@fhgr.ch](mailto:lea.moser@fhgr.ch)
 Starte den Unterricht im Ordner [`00_einstieg`](00_einstieg).
 Dort wird der gesamte Ablauf erklärt.
 
+Hier findes du ausserdem einen kurzen Video welcher dir erklärt, 
+wie du am besten mit diesen README.md-Files arbeitest.
+
+[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+
 ## Quicklinks
+> Ein Überblick über die Inhalte der Unterrichtswoche. 
 > Navigiere dich hier schnell zum Ort deiner Wahl.
 
-| Link                            | Thema                                           |
-|:--------------------------------|:------------------------------------------------|
-| [`00_einstieg`](00_einstieg)    | Einführung in den Unterricht und dessen Ablauf. |
-| [`01_schritt01`](01_schritt01)  | Beschrieb Thema                                 |
-| [`02_schritt02`](02_schritt02)  | Beschrieb Thema                                 |
-| [`03_schritt03`](03_schritt03)  | Beschrieb                                       |
-| [`04_schritt04`](04_schritt04)  | Beschrieb                                       |
-| [`05_schritt05`](05_schritt05)  | Beschrieb                                       |
-| [`06_schritt06`](06_schritt06)  | Beschrieb                                       |
-| [`07_schritt07`](07_schritt07)  | Beschrieb                                       |
-| [`08_schritt08`](08_schritt08)  | Beschrieb                                       |
-| [`09_schritt09`](09_schritt09)  | Beschrieb                                       |
-| [`10_schritt10`](10_schritt10)  | Beschrieb                                       |
-| [`11_schritt11`](11_schritt11)  | Beschrieb                                       |
-| [`12_schritt12`](12_schritt12)  | Beschrieb                                       |
+| Link                                           | Thema                                                                                            |
+|:-----------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| [`00_einstieg`](00_einstieg)                   | Einführung in den Unterricht und dessen Ablauf.                                                  |
+| [`01_setup`](01_setup)                         | Grundlegender Aufbau des Themes.                                                                 |
+| [`02_modularisieren`](02_modularisieren)       | Erstellen verschiedener Dateien und erster Funktionalitäten wie Navigation und Customizer.       |
+| [`03_loop`](03_loop)                           | Ausgeben von korrekten Inhalten auf dem Portfolio.                                               |
+| [`04_themestruktur`](04_themestruktur)         | Erstellen einer schlauen Theme-Struktur anhand der Template Hierarchy.                           |
+| [`05_blogposts`](05_blogposts)                 | Aufbau und Ausbau der Blogposts mit verschiedenen Template Tags.                                 |
+| [`06_shortcodes`](06_shortcodes)               | Erstellen von Shortcodes.                                                                        |
+| [`07_custom-post-types`](07_custom-post-types) | Konfigurieren und Implementieren eines eigenen Post Types mit generatewp.com und dem Plugin ACF. |
+| [`08_taxonomien`](08_taxonomien)               | Konfigurieren und Implementieren einer eigenen Taxonomie.                                        |
+| [`09_conditional-tags`](09_conditional-tags)   | Mit Conditional Tags auf verschiedenen Seiten Inhalt ein- oder ausblenden.                       |
+| [`10_archive`](10_archive)                     | Erstellen eines Archivs für den eigenen Post Type.                                               |
+| [`11_wordpress-api`](11_wordpress-api)         | Ein kleiner Einblick in die REST-API von Wordpress.                                              |
+| [`12_plugins`](12_plugins)                     | Kennenlernen der wichtigsten Wordpress-Plugins.                                                  |
