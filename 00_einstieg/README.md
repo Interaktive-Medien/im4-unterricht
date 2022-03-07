@@ -40,8 +40,7 @@ müssen alle diese Voraussetungen erfüllt sein.
 Die noch nicht abgehakten Punkte sind vemutlich noch zu erledigen.
 Im hier verlinkten Video wird der Ablauf zum Erledigen dieser Schritte gezeigt.
 
-[korrekten video einfügen]
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/sln3vyrH-5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=sln3vyrH-5o)
 
 >  🔗 Sobald du ready bist:
 >  [Hier lang geht's zu Schritt 1](/01_schritt01)
