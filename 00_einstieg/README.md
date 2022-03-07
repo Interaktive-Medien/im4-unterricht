@@ -43,4 +43,4 @@ Im hier verlinkten Video wird der Ablauf zum Erledigen dieser Schritte gezeigt.
 [![Video](https://i3.ytimg.com/vi/sln3vyrH-5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=sln3vyrH-5o)
 
 >  🔗 Sobald du ready bist:
->  [Hier lang geht's zu Schritt 1](/01_schritt01)
+>  [Hier lang geht's zum Schritt 01, Setup](/01_setup)

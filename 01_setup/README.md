@@ -16,7 +16,37 @@
 <summary><strong>👉 HTML Grundstruktur 👈</strong></summary>
 
 ```html
-<html></html>
+<!doctype html>
+<html lang="de">
+
+<head>
+    <title>Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0,user-scalable=yes">
+</head>
+
+<body>
+<header>
+    <h1>Portfolio</h1>
+    <nav>
+        <ul>
+            <li>Navigationspunkt A</li>
+            <li>Navigationspunkt B</li>
+            <li>Navigationspunkt C</li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <article>
+        <p>Hauptinhalt</p>
+    </article>
+</main>
+<footer>
+    <p>Footer</p>
+</footer>
+</body>
+
+</html>
 ```
 </details>
 
