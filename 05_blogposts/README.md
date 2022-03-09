@@ -73,4 +73,4 @@ function additional_custom_styles() {
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 06, Shortcodes](/06_shortcodes)
+>  [Hier lang geht's weiter zu Schritt 06, Blocks](/06_blocks)

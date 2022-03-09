@@ -25,7 +25,7 @@ wie du am besten mit diesen README.md-Files arbeitest.
 | [`03_loop`](03_loop)                           | Ausgeben von korrekten Inhalten auf dem Portfolio.                                               |
 | [`04_themestruktur`](04_themestruktur)         | Erstellen einer schlauen Theme-Struktur anhand der Template Hierarchy.                           |
 | [`05_blogposts`](05_blogposts)                 | Aufbau und Ausbau der Blogposts mit verschiedenen Template Tags.                                 |
-| [`06_shortcodes`](06_shortcodes)               | Erstellen von Shortcodes.                                                                        |
+| [`06_blocks`](06_blocks)                       | Erstellen von eigenen Gutenberg Blocks.                                                          |
 | [`07_custom-post-types`](07_custom-post-types) | Konfigurieren und Implementieren eines eigenen Post Types mit generatewp.com und dem Plugin ACF. |
 | [`08_taxonomien`](08_taxonomien)               | Konfigurieren und Implementieren einer eigenen Taxonomie.                                        |
 | [`09_conditional-tags`](09_conditional-tags)   | Mit Conditional Tags auf verschiedenen Seiten Inhalt ein- oder ausblenden.                       |

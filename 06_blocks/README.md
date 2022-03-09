@@ -1,4 +1,4 @@
-# Shortcodes `Schritt 06`
+# Blocks `Schritt 06`
 > **Um was es geht**: 
 > Text hier.
 
