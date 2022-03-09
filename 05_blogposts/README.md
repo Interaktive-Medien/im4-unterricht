@@ -51,7 +51,7 @@ function additional_custom_styles() {
 <p><!-- Auszug --></p>
 <a href="<?php // Link zum Beitrag ?>">mehr lesen</a>
 ```
-10. Auch die Beiträge selber sollen umgebaut werden. Füge nachfolgende Struktur in `content-single.php` ein und füge die korrekten Template Tags hinzu.
+10. Auch die Beiträge selber sollen umgebaut werden. Füge nachfolgende Struktur in `content-single.php` ein und füge die korrekten Template Tags hinzu. [^5]
 ```html
 <p class="single-infos">Veröffentlicht am <!-- Datum im Format Tag. Monat Jahr --> von <!-- Autor:in --></p>
 <h1><!-- Titel --></h1>
@@ -66,7 +66,8 @@ function additional_custom_styles() {
 [^1]: [Mehr zu Beitragsbildern](https://codex.wordpress.org/Post_Thumbnails)
 [^2]: [Mehr zu SVG in Wordpress](https://css-tricks.com/snippets/wordpress/allow-svg-through-wordpress-media-uploader/)
 [^3]: [Mehr zur Funktion wp_enqueue_scripts](https://developer.wordpress.org/reference/functions/wp_enqueue_script/)
-[^3]: [Mehr zu Template Tags](https://codex.wordpress.org/Template_Tags)
+[^4]: [Mehr zu Template Tags](https://codex.wordpress.org/Template_Tags)
+[^5]: [Mehr zum Formatieren eines Datums](https://www.php.net/manual/de/function.date.php)
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
