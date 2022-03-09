@@ -56,6 +56,11 @@ Wenn alle diese Tests erfüllt sind, funktioniert den Loop soweit🎉:
 14. Jetzt kannst du den Inhalt aus `index.php` in `content-index.php` auslagern. Bzw. Alles zwischen den `article`-Tags. 
 15. Lade jetzt in `index.php` im root-Verzeichnis mit einem `get_template_part()` [^3] die Datei `content-index.php` zwischen die `article`-Tags.
 16. Mache für die Fehlermeldung genau das gleiche.
+17. Füge auch in diese zwei Dateien Kommentare ein (wie in `index.php`). In diesem Stil:
+```html
+<!-- START: content-index.php -->
+<!-- ENDE: content-index.php -->
+```
 
 [^1]: [Mehr zum Loop](https://codex.wordpress.org/The_Loop)
 [^2]: [Mehr zu den Template Tags](https://codex.wordpress.org/Template_Tags)
