@@ -1,6 +1,8 @@
 # Blogposts `Schritt 05`
 > **Um was es geht**: 
-> Text hier.
+> Im letzten Schritt haben wir Template-Dateien für die verschiedenen Inhaltstypen erstellt.
+> Diese Inhalte wollen wir jetzt pro Inhaltstyp optimieren. 
+> Ausserdem ergänzen wir unser Theme um einige neue Funktionalitäten.
 
 ## 🧠 Theorieinput 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
@@ -8,24 +10,66 @@
 
 ## 🧑‍💻 Arbeitsauftrag
 
-### I. 📃 Submenu 
-1. Task do `index.php` [^1].
+### I. ⚙️ Einstellungen
+1. Um anschliessend den Namen des/der Autor:in korrekt anzeigen zu können, müssen wir unseren Benutzer updaten. Gehe dazu im Backend auf `Benutzer` und klicke auf "bearbeiten". Ergänze dort Vor- und Nachname und stelle den Öffentlichen Namen um.
 
-<details>
-<summary><strong>👉 Toggle 👈</strong></summary>
-
-```html
-<html></html>
+### II. 🎛️ functions.php
+2. Aktiviere mit folgendem Snippet welches in `functions.php` eingefügt wird die Funktionalität, Beitragsbilder hochladen zu können [^1]:
+```php
+// --- beitragsbilder aktivieren
+add_theme_support( 'post-thumbnails' );
 ```
-</details>
+3. Mit diesem zweiten Snippet fügst du deinem Theme die Funktionalität hinzu, dass man Bilder im SVG-Format hochladen kann [^2]. Füge das Snippet in `functions.php` hinzu.
+```php
+// --- svg upload erlauben
+function cc_mime_types( $mimes ) {
+	$mimes['svg'] = 'image/svg+xml';
+	return $mimes;
+}
+add_filter( 'upload_mimes', 'cc_mime_types' );
+```
+4. Erstelle nun einen neuen Ordner namens `js` und füge dort eine Datei `script.js` hinzu.
+5. In `functions.php` kannst du nun dieses Snippet ergänzen, welches dieses JavaScript-File mit deinem Theme verknüpft [^3].
+```php
+// --- javascript-file verknüpfen
+add_action( 'wp_enqueue_scripts', 'additional_custom_styles' );
+function additional_custom_styles() {
+	wp_enqueue_script( 'script', get_stylesheet_directory_uri() . '/js/script.js' );
+};
+```
+6. Um zu testen ob das klappt, kannst du in die Datei `script.js` nachfolgenden Code einfügen. Wenn die Datei richtig verknüpft ist, kannst du nun mit der Tastenkombination <kbd>⇧↑</kbd> und <kbd>⇧↓</kbd> die Bilder auf deiner Webseite drehen.
 
-[^1]: [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
+### III. 📃 Content ergänzen
+7. Füge jedem Beitrag ein Beitragsbild hinzu.
+8. Füge jedem Beitrag drei oder mehr Schlagwörter (`tags`) hinzu.
+
+### IV. ⚒️ Content-Files umbauen
+9. Als erstes kümmern wir uns um die Startseite. Füge nachfolgende Struktur in `content-front-page.php` ein und füge die korrekten Template Tags [^4] hinzu.
+```html
+<?php // Beitragsbild ?>
+<h2><!-- Titel --></h2>
+<p><!-- Auszug --></p>
+<a href="<?php // Link zum Beitrag ?>">mehr lesen</a>
+```
+10. Auch die Beiträge selber sollen umgebaut werden. Füge nachfolgende Struktur in `content-single.php` ein und füge die korrekten Template Tags hinzu.
+```html
+<p class="single-infos">Veröffentlicht am <!-- Datum im Format Tag. Monat Jahr --> von <!-- Autor:in --></p>
+<h1><!-- Titel --></h1>
+<?php // Beitragsbild ?>
+<div><!-- Inhalt --></div>
+```
+11. Die von uns hinzugefügten Schlagwörter wollen wir auch noch ausgeben. Der eigentlich korrekte Template Tag `get_tags()` zeigt die Schlagwörter sehr unschön an. Füge deshalb dieses Snippet nach dem Titel ein. Das stellt die Schlagwörter schönder dar.
+```php
+<p class="single-tags"><?php echo strip_tags(get_the_tag_list('<span>',',&nbsp;','</span>')); ?></p>
+```
+
+[^1]: [Mehr zu Beitragsbildern](https://codex.wordpress.org/Post_Thumbnails)
+[^2]: [Mehr zu SVG in Wordpress](https://css-tricks.com/snippets/wordpress/allow-svg-through-wordpress-media-uploader/)
+[^3]: [Mehr zur Funktion wp_enqueue_scripts](https://developer.wordpress.org/reference/functions/wp_enqueue_script/)
+[^3]: [Mehr zu Template Tags](https://codex.wordpress.org/Template_Tags)
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 06, Shortcodes](/06_shortcodes)
-
-## 🔗 Zusätzliche Links 
-- [link]()
