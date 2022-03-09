@@ -37,7 +37,7 @@ function additional_custom_styles() {
 	wp_enqueue_script( 'script', get_stylesheet_directory_uri() . '/js/script.js' );
 };
 ```
-6. Um zu testen ob das klappt, kannst du in die Datei `script.js` nachfolgenden Code einfügen. Wenn die Datei richtig verknüpft ist, kannst du nun mit der Tastenkombination <kbd>⇧↑</kbd> und <kbd>⇧↓</kbd> die Bilder auf deiner Webseite drehen.
+6. Um zu testen ob das klappt, kannst du in die Datei `script.js` nachfolgenden Code einfügen. Wenn die Datei richtig verknüpft ist, kannst du nun mit der Tastenkombination <kbd>⇧↑</kbd> (Shift & Arrow Up) und <kbd>⇧↓</kbd> (Shift & Arrow Down) die Bilder auf deiner Webseite drehen.
 
 ### III. 📃 Content ergänzen
 7. Füge jedem Beitrag ein Beitragsbild hinzu.
