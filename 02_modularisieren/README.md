@@ -11,7 +11,7 @@
 
 ### I. 🍽️ Vorbereitung 
 1. Als erstes stylen wir die Webseite. Füge das zur Verfügung gestellte CSS in die Datei `style.css` ein.
-Wichtig dabei: Lösche die Theme-Angaben nicht.
+Wichtig dabei: Lösche die Theme-Angaben nicht. [**todo**: korrektes stylesheet einfügen]
 
 <details>
 <summary><strong>👉 CSS Kopiervorlage 👈</strong></summary>
