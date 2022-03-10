@@ -50,7 +50,7 @@
 
 [^1]: [Mehr zu Conditional Tags](https://codex.wordpress.org/Conditional_Tags)
 [^2]: [Mehr zum WP Query](https://developer.wordpress.org/reference/classes/wp_query/)
-[^2]: [Mehr zum get_template_part](https://developer.wordpress.org/reference/functions/get_template_part/)
+[^3]: [Mehr zum get_template_part](https://developer.wordpress.org/reference/functions/get_template_part/)
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
