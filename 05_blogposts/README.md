@@ -48,7 +48,7 @@ function additional_custom_styles() {
 ```html
 <?php // Beitragsbild ?>
 <h2><!-- Titel --></h2>
-<p><!-- Auszug --></p>
+<?php // auszug ?>
 <a href="<?php // Link zum Beitrag ?>">mehr lesen</a>
 ```
 10. Auch die Beiträge selber sollen umgebaut werden. Füge nachfolgende Struktur in `content-single.php` ein und füge die korrekten Template Tags hinzu. [^5]
