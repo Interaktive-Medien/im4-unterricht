@@ -27,7 +27,7 @@ const URL = '';
 5. Zurück in JS kannst du dieses Snippet anstelle des `console.log()` einfügen. Das macht, dass im `p`-Tag im Footer nachher steht, in welchen Bereichen du Spezialistin bist. Das, anhand der Projektarten auf deinem Portfolio.
 ```js
 const CONTAINER = document.querySelector('footer p#skills')
-CONTAINER.innerHTML = ' Spezialistin für '
+CONTAINER.innerHTML = ' Spezialist:in für '
 data.forEach(projektart => {
     CONTAINER.innerHTML += `<span>${projektart.name}</span>`
 })
