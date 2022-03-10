@@ -1,6 +1,7 @@
 # Wordpress API `Schritt 11`
 > **Um was es geht**: 
-> Text hier.
+> Um unser Theme dynamischer zu machen nutzen wir die Wordpress REST API. 
+> So machen wir unseren Footer etwas spannender.
 
 ## 🧠 Theorieinput 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
@@ -8,24 +9,43 @@
 
 ## 🧑‍💻 Arbeitsauftrag
 
-### I. 📃 Submenu 
-1. Task do `index.php` [^1].
-
-<details>
-<summary><strong>👉 Toggle 👈</strong></summary>
-
-```html
-<html></html>
+1. Füge in `script.js` folgendes Snippet ein.
+```javascript
+const URL = '';
+    const otherParameters = { method: "GET" }
+    fetch(URL, otherParameters)
+        .then((response) => {
+            return response.json();
+        })
+        .then((data) => {
+            console.log(data)
+        })
 ```
-</details>
+2. Füge die URL zur REST API von Wordpress ein. Den Inhalt den wir haben wollen, sind alle Projektarten (Taxonomie) [^1].
+3. Wenn du in der Konsole deines Browsers deine drei Projektarten siehst die zurückgegeben werden, hast du alles richtig gemacht🍾.
+4. Gehe nun in die Datei `footer.php`. Lösche dort den Inhalt aus dem `p`-Tag raus und gib diesem Tag die id `skills`. Diesen befüllen wir nachher mit Inhalten aus der API-Response.
+5. Zurück in JS kannst du dieses Snippet anstelle des `console.log()` einfügen. Das macht, dass im `p`-Tag im Footer nachher steht, in welchen Bereichen du Spezialistin bist. Das, anhand der Projektarten auf deinem Portfolio.
+```js
+const CONTAINER = document.querySelector('footer p#skills')
+CONTAINER.innerHTML = ' Spezialistin für '
+data.forEach(projektart => {
+    CONTAINER.innerHTML += `<span>${projektart.name}</span>`
+})
+```
+6. Damit das ganze auch vom Styling her gut aussieht, kannst du im CSS dieses Snippet ergänzen.
+```css
+footer p#skills span:not(:last-of-type,:nth-last-of-type(2))::after{
+    content: ', ';
+}
+footer p#skills span:nth-last-child(2)::after{
+    content: ' und ';
+}
+```
 
-[^1]: [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
+[^1]: [API Handbuch zu Categories](https://developer.wordpress.org/rest-api/reference/categories/#example-request)
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 12, Plugins](/12_plugins)
-
-## 🔗 Zusätzliche Links 
-- [link]()
