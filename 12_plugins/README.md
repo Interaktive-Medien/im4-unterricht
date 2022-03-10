@@ -1,6 +1,6 @@
 # Plugins `Schritt 12`
 > **Um was es geht**: 
-> Text hier.
+> Wir lernen abschliessend einige wichtige Plugins für diverse Use-Cases kennen. 
 
 ## 🧠 Theorieinput 
 [![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
@@ -8,24 +8,22 @@
 
 ## 🧑‍💻 Arbeitsauftrag
 
-### I. 📃 Submenu 
-1. Task do `index.php` [^1].
+In diesem Schritt musst du selber nichts machen. Wenn du willst, kannst du die Plugins jedoch ausprobieren. 
+Hier sind alle sechs ausgelistet.
 
-<details>
-<summary><strong>👉 Toggle 👈</strong></summary>
+1. All In One WP Security & Firewall [^1]
+2. Ninja Forms [^2]
+3. WoCommerce [^3]
+4. WP-Globus [^4]
+5. Duplicator [^5]
+6. Yoast SEO [^6]
 
-```html
-<html></html>
-```
-</details>
-
-[^1]: [Mehr zum Haupt-Stylesheet](https://developer.wordpress.org/themes/basics/main-stylesheet-style-%20css/#example)
-
-## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[^1]: [Plugin-Seite All In One WP Security & Firewall](https://de.wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
+[^2]: [Plugin-Seite Ninja Forms](https://de.wordpress.org/plugins/ninja-forms/)
+[^3]: [Plugin-Seite WoCommerce](https://de.wordpress.org/plugins/woocommerce/)
+[^4]: [Plugin-Seite WP-Globus](https://de.wordpress.org/plugins/wpglobus/)
+[^5]: [Plugin-Seite Duplicator](https://de.wordpress.org/plugins/duplicator/)
+[^6]: [Plugin-Seite Yoast SEO](https://de.wordpress.org/plugins/wordpress-seo/)
 
 >  🔗 Wenn du fertig bist:
 >  Dann bist du ganz fertig 🥳 Congrats!
-
-## 🔗 Zusätzliche Links 
-- [link]()
