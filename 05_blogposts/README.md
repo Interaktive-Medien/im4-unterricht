@@ -39,6 +39,29 @@ function additional_custom_styles() {
 ```
 6. Um zu testen ob das klappt, kannst du in die Datei `script.js` nachfolgenden Code einfügen. Wenn die Datei richtig verknüpft ist, kannst du nun mit der Tastenkombination <kbd>⇧↑</kbd> (Shift & Arrow Up) und <kbd>⇧↓</kbd> (Shift & Arrow Down) die Bilder auf deiner Webseite drehen.
 
+<details>
+<summary><strong>👉 Testscript JavaScript 👈</strong></summary>
+
+```javascript
+document.addEventListener('DOMContentLoaded', function () {
+
+    // --- beispielfunktion - rotate images on keycombo
+    const IMAGES = document.querySelectorAll('main img')
+    IMAGES.forEach(img => { img.style.transition = '0.5s' })
+    document.onkeydown = keydown;
+    function keydown (evt) {
+        if (!evt) evt = event;
+        if(evt.shiftKey && evt.keyCode === 38) {
+            IMAGES.forEach(img => { img.style.transform = 'rotate(180deg)'; })
+        }else if(evt.shiftKey && evt.keyCode === 40){
+            IMAGES.forEach(img => { img.style.transform = 'rotate(0deg)'; })
+        }
+    }
+
+}, false);
+```
+</details>
+
 ### III. 📃 Content ergänzen
 7. Füge jedem Beitrag ein Beitragsbild hinzu.
 8. Füge jedem Beitrag drei oder mehr Schlagwörter (`tags`) hinzu.
