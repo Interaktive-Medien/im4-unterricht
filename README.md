@@ -32,3 +32,7 @@ wie du am besten mit diesen README.md-Files arbeitest.
 | [`10_archive`](10_archive)                     | Erstellen eines Archivs für den eigenen Post Type.                                               |
 | [`11_wordpress-api`](11_wordpress-api)         | Ein kleiner Einblick in die REST-API von Wordpress.                                              |
 | [`12_plugins`](12_plugins)                     | Kennenlernen der wichtigsten Wordpress-Plugins.                                                  |
+
+
+## 🔗 Ressourcen Wordpress
+Hier findest du weitere Ressourcen zum Entwickeln von Themes in Wordpress. [RESOURCES.md](RESOURCES.md)
