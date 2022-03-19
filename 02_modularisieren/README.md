@@ -4,7 +4,7 @@
 > Ausserdem wird eine Navigation erstellt, die im Backend befüllt werden kann und der Customizer wird das erste Mal genutzt, um ein Logo hochzuladen.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/2Py3VPbycwE/maxresdefault.jpg)](https://www.youtube.com/watch?v=2Py3VPbycwE)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1H8C6i6Eea_I6AYpWM6NLOM90aVQDM_dT/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -428,7 +428,7 @@ function theme_prefix_setup() {
 [^4]: [Mehr zum bloginfo-Tag](https://developer.wordpress.org/reference/functions/bloginfo/#possible-values-for-show)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/VJCpJXhFc4Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=VJCpJXhFc4Q)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 03, Loop](/03_loop)

@@ -5,7 +5,7 @@
 > Es handelt sich hierbei vor allem um eine Repetition aus der Unterrichtsvorbereitung.
 
 ## 🧠 Theorieinput
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/ipk_X_YTVIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ipk_X_YTVIs)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/161qzMKIpLtUR9-vFbzMlBpVXHZiPNZ06/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag 
@@ -84,7 +84,7 @@
 [^5]: [Mehr zum wp-head](https://developer.wordpress.org/reference/functions/wp_head/#user-%20contributed-notes)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/5N-qPFHKpVw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5N-qPFHKpVw)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's zu Schritt 02, Modularisieren](/02_modularisieren)

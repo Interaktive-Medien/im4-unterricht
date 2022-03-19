@@ -5,7 +5,7 @@
 > Ausserdem ergänzen wir unser Theme um einige neue Funktionalitäten.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/ulzYzegRkJo/maxresdefault.jpg)](https://www.youtube.com/watch?v=ulzYzegRkJo)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/176h8s3MVBNBkcg6lI3z981wA7a_5SoZG/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
 [^5]: [Mehr zum Formatieren eines Datums](https://www.php.net/manual/de/function.date.php)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/PCitrA3pIjI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PCitrA3pIjI)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 06, Blocks](/06_blocks)

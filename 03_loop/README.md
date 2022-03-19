@@ -4,7 +4,7 @@
 > Aussderem Modulariseren wir unser Theme weiter.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/O8ij5PXPY8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=O8ij5PXPY8Y)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/113Y4_rMneGblgTD0cXkqgvPRfSpJLdDG/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -67,7 +67,7 @@ Wenn alle diese Tests erfüllt sind, funktioniert den Loop soweit🎉:
 [^3]: [Mehr zu get_template_part](https://developer.wordpress.org/reference/functions/get_template_part/)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/8rHCSOjkW5g/maxresdefault.jpg)](https://www.youtube.com/watch?v=8rHCSOjkW5g)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 04, Themestruktur](/04_themestruktur)

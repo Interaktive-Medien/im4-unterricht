@@ -4,7 +4,7 @@
 > Diese wird in diesem Schritt für unser Portfolio implementiert.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/Md4erP1VPlU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Md4erP1VPlU)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1tICvaDZl0Ans_ciTNK35XkLMgrXYfUwt/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -26,7 +26,7 @@
 [^1]: [Mehr zur Template Hierarchie](https://wphierarchy.com/)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/rMKmdZzzuQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=rMKmdZzzuQA)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 05, Blogposts](/05_blogposts)
