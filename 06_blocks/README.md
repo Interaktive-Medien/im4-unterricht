@@ -11,7 +11,7 @@
 ### I. 🔧 Backend 
 1. Im Backend bei Menupunkt "Plugins/Installieren" installieren und aktivieren wir das Plugin `Genesis Custom Blocks` [^1].
 2. Es erscheint ein neuer Menupunkt der "Custom Blocks" heisst. Dort fügen wir mit "add new" einen neuen Block hinzu.
-3. Als erstes benennen wir den Block "Empfehlung" (Der Slug muss `empfelung` heissen).
+3. Als erstes benennen wir den Block "Empfehlung" (Der Slug muss `empfehlung` heissen).
 4. Rechts in der Einstellungsleiste unter "Block" wählen wir ein Icon aus. 
 5. Mit dem Plus fügen wir nun folgende Felder zum Block hinzu.
 - **Beschrieb** ➡️ Slug `beschrieb` und Field Type `Textarea`
