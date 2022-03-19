@@ -4,7 +4,7 @@
 > Wir erstellen eine eigene Taxonomie uns setzen diese nachher ein.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/5yeKG6h5m3s/maxresdefault.jpg)](https://www.youtube.com/watch?v=5yeKG6h5m3s)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1BdY1PTmD7Ps1j2vxaHCJ5CMkItwUBzL_/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -30,7 +30,7 @@
 [^1]: [Taxonomie-Generator von generatewp.com](https://generatewp.com/taxonomy/)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/958lWbiQEU8/maxresdefault.jpg)](https://www.youtube.com/watch?v=958lWbiQEU8)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 09, Conditional Tags](/09_conditional-tags)

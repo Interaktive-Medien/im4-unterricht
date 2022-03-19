@@ -5,7 +5,7 @@
 > Ausserdem schauen wir uns das Plugin ACF an.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/5O2a-DKUfNQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=5O2a-DKUfNQ)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1huj7LQW8WaBexbQDrP57YefjX31Vfbf-/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -75,7 +75,7 @@
 [^4]: [Mehr zum Feldtyp True / False](https://www.advancedcustomfields.com/resources/true-false/)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/9nccoova_ik/maxresdefault.jpg)](https://www.youtube.com/watch?v=9nccoova_ik)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 08, Taxonomien](/08_taxonomien)

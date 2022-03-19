@@ -3,7 +3,7 @@
 > Wir optimieren unseren Gutenberg-Editor, indem wir einen eigenen Block hinzufügen.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/6zeNxidTaH0/maxresdefault.jpg)](https://www.youtube.com/watch?v=6zeNxidTaH0)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1d4kxsSjLuBXN83531JG2XQCflZNXYD_V/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -36,7 +36,7 @@
 [^2]: [Mehr zu block_field()](https://developer.wpengine.com/genesis-custom-blocks/functions/block_field/)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/AEJffHCfvkM/maxresdefault.jpg)](https://www.youtube.com/watch?v=AEJffHCfvkM)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 07, Custom Post Types](/07_custom-post-types)
