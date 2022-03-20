@@ -28,4 +28,4 @@ Hier sind alle sechs ausgelistet.
 >  🔗 Wenn du fertig bist:
 >  Dann bist du ganz fertig 🥳 Congrats!
 
-<iframe src="https://giphy.com/embed/mp1JYId8n0t3y" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/story-winning-naral-mp1JYId8n0t3y"></a></p>
+![picture alt](https://64.media.tumblr.com/8e016bd6784e213590a6105e74f137e0/tumblr_mu01eywmq31rs8e09o1_500.gifv "GIF Fertig")
