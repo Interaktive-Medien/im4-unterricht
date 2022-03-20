@@ -5,7 +5,7 @@
 > Dazu brauchen wir Conditional Tags und ein Custom Query.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/0YkwszSCQ7A/maxresdefault.jpg)](https://www.youtube.com/watch?v=0YkwszSCQ7A)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1GnE4ODjbLWm1lqh_05QlOlug8Z-Eifk4/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -53,7 +53,7 @@
 [^3]: [Mehr zum get_template_part](https://developer.wordpress.org/reference/functions/get_template_part/)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/Gu-H3awHSak/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gu-H3awHSak)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 10, Archive](/10_archive)

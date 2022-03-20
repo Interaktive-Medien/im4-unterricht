@@ -3,7 +3,7 @@
 > Wir lernen abschliessend einige wichtige Plugins für diverse Use-Cases kennen. 
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/LvXMOSVGuOk/maxresdefault.jpg)](https://www.youtube.com/watch?v=LvXMOSVGuOk)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1GnE4ODjbLWm1lqh_05QlOlug8Z-Eifk4/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -27,3 +27,5 @@ Hier sind alle sechs ausgelistet.
 
 >  🔗 Wenn du fertig bist:
 >  Dann bist du ganz fertig 🥳 Congrats!
+
+<iframe src="https://giphy.com/embed/mp1JYId8n0t3y" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/story-winning-naral-mp1JYId8n0t3y"></a></p>

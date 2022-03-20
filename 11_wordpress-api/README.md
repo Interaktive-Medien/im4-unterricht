@@ -4,7 +4,7 @@
 > So machen wir unseren Footer etwas spannender.
 
 ## 🧠 Theorieinput 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/Heotr1pI11M/maxresdefault.jpg)](https://www.youtube.com/watch?v=Heotr1pI11M)
 [`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1GnE4ODjbLWm1lqh_05QlOlug8Z-Eifk4/view?usp=sharing)
 
 ## 🧑‍💻 Arbeitsauftrag
@@ -45,7 +45,7 @@ footer p#skills span:nth-last-child(2)::after{
 [^1]: [API Handbuch zu Categories](https://developer.wordpress.org/rest-api/reference/categories/#example-request)
 
 ## 💡 Auflösung 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/ESltRDiJ7i0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ESltRDiJ7i0)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 12, Plugins](/12_plugins)
