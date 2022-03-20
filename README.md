@@ -11,7 +11,7 @@ Dort wird der gesamte Ablauf erklärt.
 Hier findes du ausserdem einen kurzen Video welcher dir erklärt, 
 wie du am besten mit diesen README.md-Files arbeitest.
 
-[![Video](https://i3.ytimg.com/vi/z1XVoRSLTjw/maxresdefault.jpg)](https://www.youtube.com/watch?v=z1XVoRSLTjw)
+[![Video](https://i3.ytimg.com/vi/FUgWANXPVX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=FUgWANXPVX0)
 
 ## 🔗 Quicklinks
 > Ein Überblick über die Inhalte der Unterrichtswoche. 
