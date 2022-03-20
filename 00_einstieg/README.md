@@ -19,6 +19,8 @@ Wenn du nicht mehr weiter kommst, findest du im Ordner des Schrittes den fertige
 ### `3` Auflösung 💡
 Nebst dem fertigen Code gibt es zu jedem Schritt einen Auflösungsvideo.
 Dort kannst du zuschauen, wie der Schritt erledigt wird und alles mitprogrammieren.
+Du kannst dir mit einem Klick auf den Link unterhalb des Videos auch den Code, 
+wie er nach dem Schritt aussehen sollte, ansehen.
 
 > Natürlich kannst du auch von Anfang an mit den Lösungen arbeiten. 
 > Mach das aber nicht 😉. Du lernst 100 Mal mehr, wenn du

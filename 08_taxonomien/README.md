@@ -31,6 +31,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/958lWbiQEU8/maxresdefault.jpg)](https://www.youtube.com/watch?v=958lWbiQEU8)
+[``💻 Zum Code nach Schritt 08 💻``](after_08-taxonomies)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 09, Conditional Tags](/09_conditional-tags)

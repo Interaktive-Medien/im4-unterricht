@@ -54,6 +54,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/Gu-H3awHSak/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gu-H3awHSak)
+[``💻 Zum Code nach Schritt 09 💻``](after_09-conditional-tags)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 10, Archive](/10_archive)

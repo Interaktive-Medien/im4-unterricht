@@ -76,6 +76,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/9nccoova_ik/maxresdefault.jpg)](https://www.youtube.com/watch?v=9nccoova_ik)
+[``💻 Zum Code nach Schritt 07 💻``](after_07-custom-post-type)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 08, Taxonomien](/08_taxonomien)

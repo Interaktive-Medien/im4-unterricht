@@ -94,6 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/PCitrA3pIjI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PCitrA3pIjI)
+[``💻 Zum Code nach Schritt 05 💻``](after_05-blogposts)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 06, Blocks](/06_blocks)

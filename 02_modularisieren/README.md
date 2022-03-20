@@ -429,6 +429,7 @@ function theme_prefix_setup() {
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/VJCpJXhFc4Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=VJCpJXhFc4Q)
+[``💻 Zum Code nach Schritt 02 💻``](after_02-modularisieren)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 03, Loop](/03_loop)

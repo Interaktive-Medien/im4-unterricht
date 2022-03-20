@@ -37,6 +37,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/AEJffHCfvkM/maxresdefault.jpg)](https://www.youtube.com/watch?v=AEJffHCfvkM)
+[``💻 Zum Code nach Schritt 06 💻``](after_06-blocks)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 07, Custom Post Types](/07_custom-post-types)

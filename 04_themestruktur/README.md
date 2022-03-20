@@ -27,6 +27,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/rMKmdZzzuQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=rMKmdZzzuQA)
+[``💻 Zum Code nach Schritt 04 💻``](after_04-themestruktur)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 05, Blogposts](/05_blogposts)

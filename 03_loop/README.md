@@ -68,6 +68,7 @@ Wenn alle diese Tests erfüllt sind, funktioniert den Loop soweit🎉:
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/8rHCSOjkW5g/maxresdefault.jpg)](https://www.youtube.com/watch?v=8rHCSOjkW5g)
+[``💻 Zum Code nach Schritt 03 💻``](after_03-loop)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 04, Themestruktur](/04_themestruktur)

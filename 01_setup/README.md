@@ -85,6 +85,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/5N-qPFHKpVw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5N-qPFHKpVw)
+[``💻 Zum Code nach Schritt 01 💻``](after_01-setup)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's zu Schritt 02, Modularisieren](/02_modularisieren)

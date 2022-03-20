@@ -42,6 +42,7 @@
 
 ## 💡 Auflösung 
 [![Video](https://i3.ytimg.com/vi/WBLcG1xD0gg/maxresdefault.jpg)](https://www.youtube.com/watch?v=WBLcG1xD0gg)
+[``💻 Zum Code nach Schritt 10 💻``](after_10-archive)
 
 >  🔗 Wenn du fertig bist:
 >  [Hier lang geht's weiter zu Schritt 11, Wordpress API](/11_wordpress-api)
