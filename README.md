@@ -35,4 +35,4 @@ wie du am besten mit diesen README.md-Files arbeitest.
 
 
 ## 🔗 Ressourcen Wordpress
-Hier findest du weitere Ressourcen zum Entwickeln von Themes in Wordpress. [RESOURCES.md](RESOURCES.md)
+Hier findest du weitere Ressourcen zum Entwickeln von Themes in Wordpress ➡️ [RESOURCES.md](RESOURCES.md)
