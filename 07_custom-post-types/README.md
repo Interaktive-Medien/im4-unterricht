@@ -15,7 +15,7 @@
 - `General / Function Name` ➡️ portfolioitem
 - `Post Type / Post Type Key` ➡️ portfolioitem
 - `Post Type / Link To Taxonomies` ➡️ alles rauslöschen
-- `Post Type / Hierarchial` ➡️ no (like Posts)
+- `Post Type / Hierarchial` ➡️ yes (like Pages)
 - `Labels` ➡️ Fülle alle bis und mit "Search Item" aus
 - `Options/Supports` ➡️ Aktiviere folgende
   - Title
