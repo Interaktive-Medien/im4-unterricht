@@ -231,7 +231,7 @@ section.archive_content{
 }
 body.home main article img,
 section.portfolioitems article img,
-section.archive_content article i{
+section.archive_content article img{
     width: 100%;
     height: var(--imageheight-teaser);
     object-fit: cover;
