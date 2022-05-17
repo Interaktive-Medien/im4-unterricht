@@ -213,6 +213,7 @@ body.single-portfolioitem main h1{
     margin: 10px 0 var(--ga-y-m) 0;
 }
 body.single-portfolioitem main img{
+    width: 100%;
     margin-bottom: var(--ga-y-m);
 }
 body.single-portfolioitem main a{
