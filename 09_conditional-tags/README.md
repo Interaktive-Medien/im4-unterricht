@@ -45,7 +45,7 @@
 <?php endif; } ?>
 ```
 12. Wenn auf deiner Portfolio-Seite nun drei mal gelb Markiert "Teaser" angezeigt wird, funktioniert dein Query 💃🕺. 
-13. Füge nun an der Stelle wo der `mark`-Tag mit "Teaser" steht mit `get_template_part()` [^3] den Teaser `teser-portfolioitem.php` ein.
+13. Füge nun an der Stelle wo der `mark`-Tag mit "Teaser" steht mit `get_template_part()` [^3] den Teaser `teaser-portfolioitem.php` ein.
 14. Mache das selbe mit der Fehlermeldung.
 
 [^1]: [Mehr zu Conditional Tags](https://codex.wordpress.org/Conditional_Tags)
