@@ -402,7 +402,7 @@ function navigation_registrieren(){
 ```php
 <?php wp_nav_menu(array('theme_location' => 'headernavigation')) ;?>
 ```
-13. Erstelle die Navigation im Backend und befülle sie mit Dummy-Content.
+13. Erstelle die Navigation im Backend, nenne diese "Headermenu", und befülle sie mit Dummy-Content.
 
 ### VI. 🖌️ Logo und Customizer
 14. Registriere mit nachfolgendem Snippet einen Logo-Upload in `functions.php`.
