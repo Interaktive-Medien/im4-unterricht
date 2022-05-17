@@ -24,7 +24,7 @@
 ```
 
 ### II. 🗄️ Taxonomie anwenden
-4. Im Backend erscheint nun bei den Portfolioitems ein neuer Unterpunkt der "Projektart heisst". Füge dort drei beliebige Projektarten hinzu (z.B. Grafik, Web, Video). Fülle jeweils Name und Beschreibung aus.
+4. Im Backend erscheint nun bei den Portfolioitems ein neuer Unterpunkt der "Projektart" heisst. Füge dort drei beliebige Projektarten hinzu (z.B. Grafik, Web, Video). Fülle jeweils Name und Beschreibung aus.
 5. Veknüpfe nun die Portfolioitems mit den Projektarten (füge zum Testen jedem Portfolioitem zwei Projektarten hinzu, so dass jede Projektart zwei mal verwendet wurde).
 
 [^1]: [Taxonomie-Generator von generatewp.com](https://generatewp.com/taxonomy/)
