@@ -56,7 +56,7 @@
 14. Erstelle im Ordner `content` eine Datei `content-portfolioitem.php`.
 15. Befülle diese Datei provisorisch mit dem Inhalt von `content-page.php`.
 16. Verknüpfe in `single-portfolioitem.php` die korrekte Template-Datei. 
-17. Füge diese Struktur in `content-portfolioite.php` ein und gib die richtigen Inhalte aus [^3].
+17. Füge diese Struktur in `content-portfolioitem.php` ein und gib die richtigen Inhalte aus [^3].
 ```html
 <p class="date"><!-- projektdatum --></p>
 <h1><!-- titel --></h1>
