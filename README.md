@@ -1,6 +1,13 @@
 # 🎨 Ein eigenes Wordpress Theme
 > **Um was es geht**: In diesem Github-Repository sind alle Inhalte für
-> den Unterricht IM4 im Frühjahrssemester 2022 zu finden. 
+> den Unterricht IM4 im Frühjahrssemester 2023 zu finden. 
+
+> ⚡⚠️ Wichtig ⚡⚠️
+> 
+> Viele Unterrichtsmaterialien für dieses Semester wurden vom letzten Jahr übernommen. 
+> Es sind deshalb noch an einigen Orten falsche Daten zu finden. 
+> Plus wurde im letzten Jahr mit dem Code Editor Atom und nicht mit VS Code gearbeitet. 
+> Für das korrekte Arbeiten mit VS Code erscheint hier in kürze ein Video.
 
 Bei Fragen: [lea.moser@fhgr.ch](mailto:lea.moser@fhgr.ch)
 
