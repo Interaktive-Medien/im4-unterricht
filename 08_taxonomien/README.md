@@ -5,7 +5,7 @@
 
 ## 🧠 Theorieinput 
 [![Video](https://i3.ytimg.com/vi/5yeKG6h5m3s/maxresdefault.jpg)](https://www.youtube.com/watch?v=5yeKG6h5m3s)
-[`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1BdY1PTmD7Ps1j2vxaHCJ5CMkItwUBzL_/view?usp=sharing)
+[`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1pyG_IJ8cSefqORxiIje76xW6Ti42yGOa/view?usp=share_link)
 
 ## 🧑‍💻 Arbeitsauftrag
 

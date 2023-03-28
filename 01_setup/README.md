@@ -6,7 +6,7 @@
 
 ## 🧠 Theorieinput
 [![Video](https://i3.ytimg.com/vi/ipk_X_YTVIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ipk_X_YTVIs)
-[`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/161qzMKIpLtUR9-vFbzMlBpVXHZiPNZ06/view?usp=sharing)
+[`⬇️ Folien als PDF herunterladen ⬇️`](https://drive.google.com/file/d/1ekn-2pJMvt-Dn9RriWo-AawQADayxu-7/view?usp=share_link)
 
 ## 🧑‍💻 Arbeitsauftrag 
 ### I. 📃 Erstellen der Grunddateien 
