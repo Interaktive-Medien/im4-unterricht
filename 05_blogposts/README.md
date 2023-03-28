@@ -14,7 +14,7 @@
 1. Um anschliessend den Namen des/der Autor:in korrekt anzeigen zu können, müssen wir unseren Benutzer updaten. Gehe dazu im Backend auf `Benutzer` und klicke auf "bearbeiten". Ergänze dort Vor- und Nachname und stelle den Öffentlichen Namen um.
 
 ### II. 🎛️ functions.php
-2. Aktiviere mit folgendem Snippet welches in `functions.php` eingefügt wird die Funktionalität, Beitragsbilder hochladen zu können [^1]:
+2. Aktiviere mit folgendem Snippet, welches in `functions.php` eingefügt wird die Funktionalität, Beitragsbilder hochladen zu können [^1]:
 ```php
 // --- beitragsbilder aktivieren
 add_theme_support( 'post-thumbnails' );
@@ -37,7 +37,7 @@ function additional_custom_styles() {
 	wp_enqueue_script( 'script', get_stylesheet_directory_uri() . '/js/script.js' );
 };
 ```
-6. Um zu testen ob das klappt, kannst du in die Datei `script.js` nachfolgenden Code einfügen. Wenn die Datei richtig verknüpft ist, kannst du nun mit der Tastenkombination <kbd>⇧↑</kbd> (Shift & Arrow Up) und <kbd>⇧↓</kbd> (Shift & Arrow Down) die Bilder auf deiner Webseite drehen.
+6. Um zu Testen, ob das klappt, kannst du in die Datei `script.js` nachfolgenden Code einfügen. Wenn die Datei richtig verknüpft ist, kannst du nun mit der Tastenkombination <kbd>⇧↑</kbd> (Shift & Arrow Up) und <kbd>⇧↓</kbd> (Shift & Arrow Down) die Bilder auf deiner Webseite drehen.
 
 <details>
 <summary><strong>👉 Testscript JavaScript 👈</strong></summary>
@@ -67,21 +67,21 @@ document.addEventListener('DOMContentLoaded', function () {
 8. Füge jedem Beitrag drei oder mehr Schlagwörter (`tags`) hinzu.
 
 ### IV. ⚒️ Content-Files umbauen
-9. Als erstes kümmern wir uns um die Startseite. Füge nachfolgende Struktur in `content-front-page.php` ein und füge die korrekten Template Tags [^4] hinzu.
+9. Als Erstes kümmern wir uns um die Startseite. Füge nachfolgende Struktur in `content-front-page.php` ein und füge die korrekten Template-Tags [^4] hinzu.
 ```html
 <?php // Beitragsbild ?>
 <h2><!-- Titel --></h2>
 <?php // auszug ?>
 <a href="<?php // Link zum Beitrag ?>">mehr lesen</a>
 ```
-10. Auch die Beiträge selber sollen umgebaut werden. Füge nachfolgende Struktur in `content-single.php` ein und füge die korrekten Template Tags hinzu. [^5]
+10. Auch die Beiträge selber sollen umgebaut werden. Füge nachfolgende Struktur in `content-single.php` ein und füge die korrekten Template-Tags hinzu. [^5]
 ```html
 <p class="single-infos">Veröffentlicht am <!-- Datum im Format Tag. Monat Jahr --> von <!-- Autor:in --></p>
 <h1><!-- Titel --></h1>
 <?php // Beitragsbild ?>
 <div><!-- Inhalt --></div>
 ```
-11. Die von uns hinzugefügten Schlagwörter wollen wir auch noch ausgeben. Der eigentlich korrekte Template Tag `get_tags()` zeigt die Schlagwörter sehr unschön an. Füge deshalb dieses Snippet nach dem Titel ein. Das stellt die Schlagwörter schönder dar.
+11. Die von uns hinzugefügten Schlagwörter wollen wir auch noch ausgeben. Der eigentlich korrekte Template Tag `get_tags()` zeigt die Schlagwörter sehr unschön an. Füge deshalb dieses Snippet nach dem Titel ein. Das stellt die Schlagwörter schöner dar.
 ```php
 <p class="single-tags"><?php echo strip_tags(get_the_tag_list('<span>',',&nbsp;','</span>')); ?></p>
 ```
@@ -97,4 +97,4 @@ document.addEventListener('DOMContentLoaded', function () {
 [``💻 Zum Code nach Schritt 05 💻``](after_05-blogposts)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 06, Blocks](/06_blocks)
+> [Hier lang geht's weiter zu Schritt 06, Blocks](/06_blocks)

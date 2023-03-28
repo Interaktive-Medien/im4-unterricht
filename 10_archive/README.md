@@ -24,11 +24,11 @@
 ### III. 🎛️ Menu
 6. Diese Archive sollen nun im Menu ersichtlich werden. Geh dazu im Backend auf den Punkt "Menus".
 7. In der Leiste links solltest du den Punkt "Projektarten" sehen. Geh dort hin, wähle alle an und klicke auf "Zum Menu hinzufügen".
-8. Rücke die Menupunkte per Drag & Drop nun so ein, dass sie Unterpunkte sind.
+8. Rücke die Menüpunkte per Drag & Drop nun so ein, dass sie Unterpunkte sind.
 
 ### IV. 🗃️ Archiv-Template
 9. Füge in `archive.php` um den Loop einen `section`-Tag mit der class `archive_content`.
-10. Füge darüber dieses Code-Snippet ein und ersetze die Kommentare durch die Korrekten Inhalte [^1] [^2].
+10. Füge darüber dieses Code-Snippet ein und ersetze die Kommentare durch die korrekten Inhalte [^1] [^2].
 ```html
 <div class="archive_intro">
     <h1><!-- Titel des Archivs --></h1>
@@ -45,4 +45,4 @@
 [``💻 Zum Code nach Schritt 10 💻``](after_10-archive)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 11, Wordpress API](/11_wordpress-api)
+> [Hier lang geht's weiter zu Schritt 11, Wordpress API](/11_wordpress-api)

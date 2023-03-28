@@ -9,7 +9,7 @@
 ## 🧑‍💻 Arbeitsauftrag
 
 In diesem Schritt musst du selber nichts machen. Wenn du willst, kannst du die Plugins jedoch ausprobieren. 
-Hier sind alle sechs ausgelistet.
+Hier sind alle sechs aufgelistet.
 
 1. All In One WP Security & Firewall [^1]
 2. Ninja Forms [^2]

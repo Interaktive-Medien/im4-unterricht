@@ -50,8 +50,8 @@
 - [Developer Guide Customizer](https://themefoundation.com/wordpress-theme-customizer/)
 
 ## ✂️ Snippets
-> Eine kleine und unvollständige Liste mit kleinen SNippets, 
-> die in der Wordpress-Theme Entwicklung wichtig sein könnten.
+> Eine kleine und unvollständige Liste mit kleinen Snippets, 
+> die in der Wordpress-Theme-Entwicklung wichtig sein könnten.
 
 Beitragsbilder in `functions.php` aktivieren
 ```php

@@ -10,7 +10,7 @@
 ## 🧑‍💻 Arbeitsauftrag
 
 ### I. 🍽️ Vorbereitung 
-1. Als erstes stylen wir die Webseite. Füge das zur Verfügung gestellte CSS in die Datei `style.css` ein.
+1. Als Erstes stylen wir die Webseite. Füge das zur Verfügung gestellte CSS in die Datei `style.css` ein.
 Wichtig dabei: Lösche die Theme-Angaben nicht.
 
 <details>
@@ -375,7 +375,7 @@ footer{
 5. Erstelle die Datei `footer.php`.
 6. Kopiere alles aus `index.php` vom schliessenden `main`-Tag bis zuunterst in diese Datei.
 7. Binde den Footer dynamisch ein [^2].
-8. Füge in `index.php` nach dem eingebundenen Header einen Kommentar ein, der zeigt dass hier das `index.php`-File beginnt.
+8. Füge in `index.php` nach dem eingebundenen Header einen Kommentar ein, der zeigt, dass hier das `index.php`-File beginnt.
 So in dem Stil: 
 ```html
 <!-- START: index.php -->
@@ -433,4 +433,4 @@ function theme_prefix_setup() {
 [``💻 Zum Code nach Schritt 02 💻``](after_02-modularisieren)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 03, Loop](/03_loop)
+> [Hier lang geht's weiter zu Schritt 03, Loop](/03_loop)

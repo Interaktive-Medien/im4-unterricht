@@ -21,7 +21,7 @@ const URL = '';
             console.log(data)
         })
 ```
-2. Füge die URL zur REST API von Wordpress ein. Den Inhalt den wir haben wollen, sind alle Projektarten (Taxonomie) [^1].
+2. Füge die URL zur REST API von Wordpress ein. Den Inhalt, den wir haben wollen, sind alle Projektarten (Taxonomie) [^1].
 3. Wenn du in der Konsole deines Browsers deine drei Projektarten siehst die zurückgegeben werden, hast du alles richtig gemacht🍾.
 4. Gehe nun in die Datei `footer.php`. Lösche dort den Inhalt aus dem `p`-Tag raus und gib diesem Tag die id `skills`. Diesen befüllen wir nachher mit Inhalten aus der API-Response.
 5. Zurück in JS kannst du dieses Snippet anstelle des `console.log()` einfügen. Das macht, dass im `p`-Tag im Footer nachher steht, in welchen Bereichen du Spezialistin bist. Das, anhand der Projektarten auf deinem Portfolio.
@@ -49,4 +49,4 @@ footer p#skills span:nth-last-child(2)::after{
 [``💻 Zum Code nach Schritt 11 💻``](after_11-wordpress-api)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 12, Plugins](/12_plugins)
+> [Hier lang geht's weiter zu Schritt 12, Plugins](/12_plugins)

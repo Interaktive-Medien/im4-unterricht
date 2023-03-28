@@ -20,7 +20,7 @@
 
 ### II. 🫀 Loop
 4. Öffne die Datei `index.php`.
-5. Lösche alles was zwischen den Kommentaren steht (das sollten ein `article`-Tag und ein `p`-Tag sein).
+5. Lösche alles, was zwischen den Kommentaren steht (das sollten ein `article`-Tag und ein `p`-Tag sein).
 6. Füge an diese Stelle nun den Loop [^1] ein.
 ```php
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
@@ -55,7 +55,7 @@ Wenn alle diese Tests erfüllt sind, funktioniert den Loop soweit🎉:
 13. Erstelle dort zwei neue Dateien, einmal `content-index.php` und einmal `content-error.php`.
 14. Jetzt kannst du den Inhalt aus `index.php` in `content-index.php` auslagern. Bzw. Alles zwischen den `article`-Tags. 
 15. Lade jetzt in `index.php` im root-Verzeichnis mit einem `get_template_part()` [^3] die Datei `content-index.php` zwischen die `article`-Tags.
-16. Mache für die Fehlermeldung genau das gleiche.
+16. Mache für die Fehlermeldung genau das Gleiche.
 17. Füge auch in diese zwei Dateien Kommentare ein (wie in `index.php`). In diesem Stil:
 ```html
 <!-- START: content-index.php -->
@@ -71,4 +71,4 @@ Wenn alle diese Tests erfüllt sind, funktioniert den Loop soweit🎉:
 [``💻 Zum Code nach Schritt 03 💻``](after_03-loop)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 04, Themestruktur](/04_themestruktur)
+> [Hier lang geht's weiter zu Schritt 04, Themestruktur](/04_themestruktur)

@@ -4,10 +4,10 @@
 
 > ⚡⚠️ Wichtig ⚡⚠️
 > 
-> Viele Unterrichtsmaterialien für dieses Semester wurden vom letzten Jahr übernommen. 
-> Es sind deshalb noch an einigen Orten falsche Daten zu finden. 
-> Plus wurde im letzten Jahr mit dem Code Editor Atom und nicht mit VS Code gearbeitet. 
-> Für das korrekte Arbeiten mit VS Code erscheint hier in kürze ein Video.
+> Im letzten Jahr wurde auch schon mit diesen Unterlagen gearbeitet. 
+> In diesem Jahr haben wir den Code Editor von Atom auf VS Code umgestellt. 
+> Deshalb wird in allen Videos mit Atom gearbeitet.
+> Für das korrekte Arbeiten mit VS Code erscheint hier in Kürze ein Video.
 
 Bei Fragen: [lea.moser@fhgr.ch](mailto:lea.moser@fhgr.ch)
 
@@ -15,7 +15,7 @@ Bei Fragen: [lea.moser@fhgr.ch](mailto:lea.moser@fhgr.ch)
 Starte den Unterricht im Ordner [`00_einstieg`](00_einstieg).
 Dort wird der gesamte Ablauf erklärt.
 
-Hier findes du ausserdem einen kurzen Video welcher dir erklärt, 
+Hier findest du ausserdem einen kurzen Video welcher dir erklärt, 
 wie du am besten mit diesen README.md-Files arbeitest.
 
 [![Video](https://i3.ytimg.com/vi/FUgWANXPVX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=FUgWANXPVX0)

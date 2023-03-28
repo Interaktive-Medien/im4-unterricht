@@ -13,7 +13,7 @@
 - `single.php` ➡️ für Blogposts
 - `page.php` ➡️ für Seiten
 - `front-page.php` ➡️ für die Startseite
-2. Befülle diese drei Files porvisorisch mit dem Inhalt aus `index.php`. Passe dort die Kommentare an.
+2. Befülle diese drei Files provisorisch mit dem Inhalt aus `index.php`. Passe dort die Kommentare an.
 3. Wie auch in `Schritt 03` werden wir die Inhalte dieser Dateien auslagern. Erstelle deshalb nochmals drei neue Files im Ordner `content`.
 - `content-single.php` ➡️ für den Inhalt von Blogposts
 - `content-page.php` ➡️ für den Inhalt von Seiten
@@ -30,4 +30,4 @@
 [``💻 Zum Code nach Schritt 04 💻``](after_04-themestruktur)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 05, Blogposts](/05_blogposts)
+> [Hier lang geht's weiter zu Schritt 05, Blogposts](/05_blogposts)

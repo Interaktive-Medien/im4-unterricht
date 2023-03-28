@@ -9,9 +9,9 @@
 ## 🧑‍💻 Arbeitsauftrag
 
 ### I. 🔧 Backend 
-1. Im Backend bei Menupunkt "Plugins/Installieren" installieren und aktivieren wir das Plugin `Genesis Custom Blocks` [^1].
-2. Es erscheint ein neuer Menupunkt der "Custom Blocks" heisst. Dort fügen wir mit "add new" einen neuen Block hinzu.
-3. Als erstes benennen wir den Block "Empfehlung" (Der Slug muss `empfehlung` heissen).
+1. Im Backend bei Menüpunkt "Plugins/Installieren" installieren und aktivieren wir das Plugin `Genesis Custom Blocks` [^1].
+2. Es erscheint ein neuer Menüpunkt der "Custom Blocks" heisst. Dort fügen wir mit "add new" einen neuen Block hinzu.
+3. Als Erstes benennen wir den Block "Empfehlung" (Der Slug muss `empfehlung` heissen).
 4. Rechts in der Einstellungsleiste unter "Block" wählen wir ein Icon aus. 
 5. Mit dem Plus fügen wir nun folgende Felder zum Block hinzu.
 - **Beschrieb** ➡️ Slug `beschrieb` und Field Type `Textarea`
@@ -40,4 +40,4 @@
 [``💻 Zum Code nach Schritt 06 💻``](after_06-blocks)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 07, Custom Post Types](/07_custom-post-types)
+> [Hier lang geht's weiter zu Schritt 07, Custom Post Types](/07_custom-post-types)

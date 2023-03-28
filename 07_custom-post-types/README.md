@@ -11,7 +11,7 @@
 ## 🧑‍💻 Arbeitsauftrag
 
 ### I. 🪄 Custom Post Type 
-1. Mithilfe der Webseite generatewp.com [^1] generieren wir unseren Custom Post Type für unsere Portfolioitems. Halte beim generieren folgende Vorgaben ein:
+1. Mithilfe der Webseite generatewp.com [^1] generieren wir unseren Custom Post Type für unsere Portfolioitems. Halte beim Generieren folgende Vorgaben ein:
 - `General / Function Name` ➡️ portfolioitem
 - `Post Type / Post Type Key` ➡️ portfolioitem
 - `Post Type / Link To Taxonomies` ➡️ alles rauslöschen
@@ -26,14 +26,14 @@
 - `Show in REST` ➡️ yes
 
 2. Füge das generierte Snippet in `functions.php` ein.
-3. Geh im Backend zu den Einstellungen und dort zu Permalinks. Speichere ohne etwas zu verändern neu.
+3. Geh im Backend zu den Einstellungen und dort zu Permalinks. Speichere, ohne etwas zu verändern neu.
 > Dieser Schritt mag komisch erscheinen, ist aber exterm wichtig. 
 > Wordpress macht manchmal Probleme mit Custom Post Types, so kann man das verhindern.
 
 ### II. 🗂️ Advanced Custom Fields
-4. Mit ACF [^2] wird der Aufbau der Portfolioitems einheitlicht definiert. Klicke im Backend auf den Bereich "Custom Fields".
+4. Mit ACF [^2] wird der Aufbau der Portfolioitems einheitlich definiert. Klicke im Backend auf den Bereich "Custom Fields".
 5. Mit "Erstellen" kannst du nun eine neue Feldgruppe erstellen. Nenne diese "Portfolio".
-6. Erstelle nun Felder mit nachfolgenden Spezifikaltionen:
+6. Erstelle nun Felder mit nachfolgenden Spezifikationen:
 
 | Label                   | Type           | Sonstiges                                                                         |
 |-------------------------|----------------|-----------------------------------------------------------------------------------|
@@ -79,4 +79,4 @@
 [``💻 Zum Code nach Schritt 07 💻``](after_07-custom-post-type)
 
 >  🔗 Wenn du fertig bist:
->  [Hier lang geht's weiter zu Schritt 08, Taxonomien](/08_taxonomien)
+> [Hier lang geht's weiter zu Schritt 08, Taxonomien](/08_taxonomien)
