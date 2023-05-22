@@ -36,6 +36,9 @@ a{
     text-decoration: none;
     color: inherit;
 }
+img {
+    max-width: 100%;
+}
 
 /* --- variables */
 :root {
